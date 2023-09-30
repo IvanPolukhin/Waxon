@@ -756,6 +756,7 @@ p {
 .blog__content {
     padding-left: 25px;
     padding-right: 40px;
+    padding-bottom: 15px;
 }
 
 .blog__title {
